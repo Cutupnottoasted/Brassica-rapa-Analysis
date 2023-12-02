@@ -4,8 +4,9 @@
 This notebook takes 2022 Texas State Organismal Biology 1131 Brassica Rapa data and digests it using ANOVA and Tukey's Honestly Significant Differ
 
 ## Built with
-- Python 3.3 or later
 - Jupyter 1.0
+- Python 3.3 or later
+
 
 ## Prerequisites
 - pandas
